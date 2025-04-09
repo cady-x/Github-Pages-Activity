@@ -2,6 +2,8 @@
 
 Hello! My name is C, I study at the University of Washington. This page says a little about me.
 
+![Me](profile.jpg "A picture of me")
+
 ## Academics
 
 I am majoring in Computer Science, and am also currently studying Chinese. 我去年才开始学中文，但是我现在可以说一点儿。
